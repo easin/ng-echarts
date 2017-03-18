@@ -1,0 +1,22 @@
+{
+  "name": "ng-echarts",
+  "description": "ng-echarts",
+  "main": "./dist/ng-echarts.min.js",
+  "authors": [
+    "liekkas"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "baidu",
+    "echart2.x",
+    "3.x"
+  ],
+  "homepage": "https://github.com/easin/ng-echarts",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
